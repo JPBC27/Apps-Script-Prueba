@@ -10,3 +10,7 @@ function Mensaje1() {
 function Mensaje2() {
     alert("Hola tercer mensaje uso de git y clasp");
 }
+
+function Mensaje3() {
+    Logger.log("Prueba");
+}
