@@ -5,3 +5,8 @@ function Mensaje() {
 function Mensaje1() {
     alert("Hola");
 }
+
+
+function Mensaje2() {
+    alert("Hola tercer mensaje uso de git y clasp");
+}
